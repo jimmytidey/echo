@@ -1,0 +1,15 @@
+long_time_resident_task:
+  description: >
+   Review documents and give your views about the proposed new development near Chapel Road in Smallfields 
+  expected_output: >
+    300 words of plain text 
+  agent: long_time_resident
+  output_file: long_time_resident.md
+
+young_family_task:
+  description: >
+   Review documents and give your views about the proposed new development near Chapel Road in Smallfields 
+  expected_output: >
+    300 words of plain text 
+  agent: young_family_resident
+  output_file: young_family_resident.md
