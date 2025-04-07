@@ -1,0 +1,9 @@
+As a long-time resident of Smallfields, these proposed plans for development near Chapel Road have stirred up quite a mix of concern and uncertainty for me. When I chose to settle in this quaint village, it was for its peaceful, tight-knit community atmosphere. Change can be daunting, especially as it could alter the very essence of why many of us chose to live here in the first place. 
+
+One of my foremost concerns is the potential impact on our property values. For many of us, our homes are not just places of residence but significant financial assets. After devoting years to nurturing and maintaining my house, the thought of its value depreciating due to increased traffic and possible overcrowding is worrying. 
+
+Equally worrying is the potential impact on our local environment. The beauty of Smallfields lies in its lush greenery and natural charm. Any new development should be considerate of this, and work towards protecting our trees and communal green spaces. These natural elements are integral to the village's charm and essential for maintaining our quality of life.
+
+The infrastructure implications can't be ignored either. It’s crucial to consider whether our current roads and facilities can accommodate an influx of new residents without leading to congestion or safety hazards. Thoughtfully planned footpaths and cycle paths could indeed be beneficial, but they must not come at the cost of our serenity or accessibility.
+
+I do appreciate the necessity of progress and the demand for new housing; however, such endeavors should align with the heart and soul of Smallfields rather than disrupt it. Developments should reflect our village's character and charm. Therefore, it's crucial that the Council hears and incorporates the concerns of longstanding residents like myself to ensure any planning and development benefits the entire community, maintaining the village's unique spirit for our future generations.
