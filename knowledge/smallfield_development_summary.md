@@ -1,0 +1,16 @@
+
+# Smallfield Development: Overview and Community Considerations
+
+The proposed development west of Chapel Road in Smallfield, submitted by Rydon Homes, outlines plans for up to 270 new homes, alongside significant infrastructure improvements and community benefits. The site spans approximately 15 hectares, currently used for arable farming, and sits within the Green Belt. The proposal includes a mix of house types and tenures, 40% of which (108 units) will be affordable housing, encompassing both rented and first-time buyer options.
+
+A key feature of the scheme is the integration of new infrastructure and green space. Around 4.95 hectares of publicly accessible open space are included, forming part of a wider landscaping and biodiversity strategy. The development is projected to achieve over 36% biodiversity net gain through new tree planting, green corridors, and habitat creation. The masterplan also includes two new access roads from Chapel Road, upgrades to footways, and improved pedestrian and cyclist connections.
+
+A major component is the safeguarding of 2.86 hectares of land for a future two-form entry primary school. While the school will not be built immediately, the reserved land allows for future delivery in response to identified local need, especially as Burstow Primary School is currently in poor condition, split across multiple sites, and vulnerable to flooding.
+
+Flood alleviation is central to the scheme, addressing one of the most frequently raised concerns by residents. A comprehensive sustainable drainage system (SuDS) will include attenuation basins and swales to manage surface water. The plan is designed to reduce flood risk within the village by diverting water away from flood-prone areas, with an expected capacity of up to 12,000m³ of floodwater storage.
+
+Transport and safety concerns are also addressed. The plans propose new raised tables, two zebra crossings (including one near the safeguarded school site), and a 20mph speed limit along the entire length of Chapel Road and Redehall Road through the village centre. These measures respond directly to resident feedback about road safety and the impact of heavy vehicle traffic.
+
+While the development brings several benefits, it also raises understandable concerns within the community. The site lies within the Green Belt, and despite design measures to minimise its visual impact, some residents may see this as contributing to urban sprawl or the erosion of open countryside. Others have expressed apprehension about the capacity of local services such as GP surgeries, dentists, and childcare providers to accommodate additional residents. Although the reserved school land offers a long-term solution, questions may remain around immediate service provision.
+
+Nonetheless, the developers argue that the site is one of the few suitable and sustainable options in the area not located in a floodplain, and that the scale and design of the development have been shaped by local consultation. The combination of flood mitigation, affordable housing, infrastructure upgrades, and long-term educational provision is presented as a package of community benefits designed to outweigh the loss of Green Belt land.

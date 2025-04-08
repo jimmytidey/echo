@@ -1,0 +1,25 @@
+long_time_resident_concerns:
+  description: >
+   As a retired, home owning resident of Smallfields, what are you concerns about the future of the village?
+   Please think about the key aspects of the built environment, the economy, the community and the environment, 
+   and about the possible addition of new houses. Remember to think about your own personal economic concerns. 
+  expected_output: >
+    10 comma serpated key phrases (3 words each at most) that describe your concerns.
+  agent: long_time_resident
+  output_file: long_time_resident_concerns.md
+
+long_time_residents_policy_summary:
+  description: >
+    You are going to read the provided documents and provide a summary of the key points, based on the context key words provided.
+  expected_output: >
+    100 word snippets from the provided documents that are relevant to the key words provided.
+  agent: researcher
+  output_file: research.md
+
+  long_time_residents_response:
+  description: >
+    Drawing on the provided documents and the long time resident's concerns, provide feedback on the proposed housing development.
+  expected_output: >
+    100 word snippets from the provided documents that are relevant to the key words provided.
+  agent: long_time_resident
+  output_file: research.md
